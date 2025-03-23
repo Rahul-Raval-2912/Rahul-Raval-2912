@@ -1,23 +1,21 @@
 name: Generate Snake Animation
-
 on:
   schedule:
     - cron: "0 0 * * *"  # Runs daily at midnight
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Generate Snake Animation
-        uses: Platane/snk@v3
+        uses: Platane/snk@v3  # Update to latest version if available
         with:
           github_user_name: Rahul-Raval-2912
           outputs: dist/github-contribution-grid-snake.svg
-
+      - name: Verify Snake Animation File
+        run: ls -la dist/ || echo "Directory not found" && cat dist/github-contribution-grid-snake.svg || echo "File not found"
       - name: Commit and Push Snake Animation
         run: |
           git config --global user.name "Rahul-Raval-2912"
