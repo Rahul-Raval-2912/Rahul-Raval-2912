@@ -40,7 +40,7 @@
 ---
 
 ## 🐍 Watch the Snake Eat My Contributions  
-![Snake animation](https://raw.githubusercontent.com/Rahul-Raval-2912/Rahul-Raval-2912/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rahul-Raval-2912/Rahul-Raval-2912/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
