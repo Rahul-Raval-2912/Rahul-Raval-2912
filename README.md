@@ -41,8 +41,9 @@
 
 ## 🐍 Watch the Snake Eat My Contributions  
 <div align="center">
- <img src="https://raw.githubusercontent.com/AKASH722/AKASH722/output/snake.svg" alt="Snake animation" />
- </div>
+  <img src="https://raw.githubusercontent.com/Rahul-Raval-2912/Rahul-Raval-2912/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 ---
 
 ⭐ **Let's Connect and Code Together!** 🚀  
