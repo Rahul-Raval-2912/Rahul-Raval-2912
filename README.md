@@ -1,47 +1,25 @@
-# Hi, I'm Rahul! 👋  
+### Hi there, I'm [Your Name] 👋
 
-> **"Life is like a game of Chess – Always think a few moves ahead!"** ♟️  
+I'm a **Computer Engineering student at LJ Institute of Technology** with a passion for **problem-solving, chess, and software development**.
 
-🎓 **Computer Engineering Student @ LJIT**  
-💻 **Passionate about Java, Python & Problem Solving**  
-♟️ **Chess Enthusiast | Strategic Thinker**  
+### 🚀 About Me
+- 🔭 I’m currently working on **Java & Python projects**.
+- 🌱 I’m learning **advanced algorithms and system design**.
+- ♟️ I love playing **chess** and tackling **coding challenges**.
+- 📫 How to reach me: (https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 
----
+### 🛠️ Technologies & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🚀 About Me  
-- 🔭 **Currently working on:** Event Planner Project  
-- 🌱 **Exploring:** **Spring Boot, AI, and Cloud Computing**  
-- ⚡ **Fun Fact:** I can find checkmate in 3 moves faster than I debug a Java error! 😆  
+### 📊 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
----
+### 🏆 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-rahul-raval-1285?theme=dark&font=Baloo&ext=contest)
 
-## 🛠️ Tech Stack  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
----
-
-## 📊 GitHub Stats  
-![Rahul's GitHub Streak](https://streak-stats.demolab.com/?user=Rahul-Raval-2912&theme=tokyonight)
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul-Raval-2912&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Raval-2912&layout=compact&theme=vision-friendly-dark)  
-
----
-
-## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram)](https://www.instagram.com/yourusername)  
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rahul-Raval-2912/your-repo/main/assets/profile-animation.svg" alt="GitHub Profile Animation" />
-</div>
-
-
-⭐ **Let's Connect and Code Together!** 🚀  
+### 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
