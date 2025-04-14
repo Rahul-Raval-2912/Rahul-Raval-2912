@@ -9,7 +9,7 @@
 ---
 
 ## 🚀 About Me  
-- 🔭 **Currently working on:** Event Planner Project  
+- 🔭 **Currently working on:** raven (chatting site)  
 - 🌱 **Exploring:** **Spring Boot, AI, and Cloud Computing**  
 - ⚡ **Fun Fact:** I can find checkmate in 3 moves faster than I debug a Java error! 😆  
 
