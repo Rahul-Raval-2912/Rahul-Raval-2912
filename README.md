@@ -39,9 +39,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rahul-Raval-2912/your-repo/main/assets/profile-animation.svg" alt="GitHub Profile Animation" />
-</div>
-
 
 ⭐ **Let's Connect and Code Together!** 🚀  
