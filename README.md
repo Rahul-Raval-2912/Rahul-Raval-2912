@@ -33,9 +33,9 @@
 ---
 
 ## 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/yourusername)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram)](https://www.instagram.com/yourusername)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahul-raval-27a5a932a/)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/rahul_raval_98)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram)](https://www.instagram.com/Rahul_Raval_98/) 
 
 ---
 
