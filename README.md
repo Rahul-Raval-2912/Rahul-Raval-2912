@@ -1,3 +1,4 @@
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo)
 # Hi, I'm Rahul! 👋  
 
 > **"Life is like a game of Chess – Always think a few moves ahead!"** ♟️  
