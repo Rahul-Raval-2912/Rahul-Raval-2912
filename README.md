@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Rahul-Raval-2912.profile&color=blue)
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Rahul-Raval-2912.Rahul-Raval-2912)
 # Hi, I'm Rahul! 👋  
 
 > **"Life is like a game of Chess – Always think a few moves ahead!"** ♟️  
