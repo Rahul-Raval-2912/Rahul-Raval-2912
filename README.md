@@ -21,7 +21,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
+![Cloud](https://img.shields.io/badge/Cloud-Computing-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ---
 
 ## 📊 GitHub Stats  
