@@ -1,4 +1,4 @@
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Rahul-Raval-2912.Rahul-Raval-2912)
+![ViewCount](https://views.whatilearened.today/views/github/Rahul-Raval-2912/Rahul-Raval-2912.svg?cache=remove)
 # Hi, I'm Rahul! 👋  
 
 > **"Life is like a game of Chess – Always think a few moves ahead!"** ♟️  
