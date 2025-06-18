@@ -14,7 +14,7 @@
 
 - 🔭 **Currently building:** [GitSecure Scanner](https://github.com/Rahul-Raval-2912/gitsecure-scanner) – A Python tool to detect sensitive data leaks in Git repositories  
 - 🌱 **Currently learning:** Cybersecurity basics, cloud architecture (AWS/GCP), server deployment & network protocols  
-- ⚡ **Fun Fact:** Sometimes I just stare at terminal windows for fun — and call it "learning mode." 🧠💻
+- ⚡ **Fun Fact:** Sometimes I just stare at terminal windows for fun — and call it "thinking". 🧠💻
 ---
 
 ## 🛠️ Tech Stack
