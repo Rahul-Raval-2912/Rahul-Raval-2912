@@ -8,13 +8,13 @@
 
 ## 🚀 About Me
 🎓 **Computer Engineering Student @ LJIT**  
-🔒 **Cybersecurity Enthusiast | Networking Pro | Cloud Explorer**  
-♟️ **Chess Strategist | Always Thinking One Move Ahead**
+🔐 **Learning Cybersecurity, Networking & Cloud Technologies**  
+🖥️ **Exploring Server Administration & Private Server Setups**  
+♟️ **Chess Lover | Always One Move Ahead**
 
 - 🔭 **Currently building:** [GitSecure Scanner](https://github.com/Rahul-Raval-2912/gitsecure-scanner) – A Python tool to detect sensitive data leaks in Git repositories  
-- 🌱 **Learning:** Advanced Cybersecurity, Cloud Architecture, and Private Server Management  
-- ⚡ **Fun Fact:**  Sometimes, I stare at the screen for hours... and call it "thinking." 🧠💡
-
+- 🌱 **Currently learning:** Cybersecurity basics, cloud architecture (AWS/GCP), server deployment & network protocols  
+- ⚡ **Fun Fact:** Sometimes I just stare at terminal windows for fun — and call it "learning mode." 🧠💻
 ---
 
 ## 🛠️ Tech Stack
