@@ -39,11 +39,13 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Rahul-Raval-2912&theme=tokyonight" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rahul-Raval-2912&show_icons=true&theme=radical" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Raval-2912&layout=compact&theme=vision-friendly-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-Raval-2912&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Raval-2912&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Raval-2912&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
+
 
 ---
 
