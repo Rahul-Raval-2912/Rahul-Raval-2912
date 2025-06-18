@@ -28,6 +28,14 @@
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Networking" src="https://img.shields.io/badge/Networking-005C84?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
+
+---
+
+## 📜 Certifications
+- 🛡️ **Google Cybersecurity** – Mastered fundamentals of securing systems and networks  
+- ☁️ **AWS Cloud Practitioner** – Gained expertise in cloud computing with Amazon Web Services  
+- 🌐 **Microsoft Networking and Cloud Introduction** – Learned core networking and cloud concepts  
+
 ---
 
 ## 🏆 Featured Projects
