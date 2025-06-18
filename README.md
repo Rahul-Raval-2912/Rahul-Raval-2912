@@ -9,11 +9,11 @@
 ## 🚀 About Me
 🎓 **Computer Engineering Student @ LJIT**  
 🔒 **Cybersecurity Enthusiast | Networking Pro | Cloud Explorer**  
-♟️ **Chess Strategist | Always One Move Ahead**
+♟️ **Chess Strategist | Always Thinking One Move Ahead**
 
 - 🔭 **Currently building:** [GitSecure Scanner](https://github.com/Rahul-Raval-2912/gitsecure-scanner) – A Python tool to detect sensitive data leaks in Git repositories  
 - 🌱 **Learning:** Advanced Cybersecurity, Cloud Architecture, and Private Server Management  
-- ⚡ **Fun Fact:** I can spot a security flaw as quickly as a checkmate in three moves! 😎
+- ⚡ **Fun Fact:**  Sometimes, I stare at the screen for hours... and call it "thinking." 🧠💡
 
 ---
 
@@ -31,13 +31,6 @@
 
 ---
 
-## 📜 Certifications
-- 🛡️ **Google Cybersecurity** – Mastered fundamentals of securing systems and networks  
-- ☁️ **AWS Cloud Practitioner** – Gained expertise in cloud computing with Amazon Web Services  
-- 🌐 **Microsoft Networking and Cloud Introduction** – Learned core networking and cloud concepts  
-
----
-
 ## 🏆 Featured Projects
 - **[GitSecure Scanner](https://github.com/Rahul-Raval-2912/gitsecure-scanner)**: A Python-powered tool that scans Git repos for sensitive data (e.g., `.env` files, API keys) and flags potential leaks with precision.  
 - **[Raven](https://github.com/Rahul-Raval-2912/raven)**: A real-time chat platform built with Java and Spring Boot, hosted on a private cloud server for seamless communication.  
@@ -45,7 +38,7 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Rahul-Raval-2912&theme=tokyonight" />
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Rahul-Raval-2912&show_icons=true&theme=radical" />
