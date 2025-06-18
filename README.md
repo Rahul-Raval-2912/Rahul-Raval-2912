@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hi, I'm Rahul! 👋</h1>
-  <p><em>"Life is a game of Chess – Always stay one move ahead!"</em> ♟️</p>
+  <h1>Hey, I'm Rahul! 👋</h1>
+  <p><em>"Life’s a chessboard – plan your moves, secure your king!"</em> ♟️</p>
   <img src="https://views.whatilearened.today/views/github/Rahul-Raval-2912/Rahul-Raval-2912.svg?cache=remove" alt="Profile Views" />
 </div>
 
@@ -8,12 +8,12 @@
 
 ## 🚀 About Me
 🎓 **Computer Engineering Student @ LJIT**  
-🔒 **Passionate about Cybersecurity, Networking, and Cloud Computing**  
-♟️ **Chess Enthusiast | Strategic Thinker**
+🔒 **Cybersecurity Enthusiast | Networking Pro | Cloud Explorer**  
+♟️ **Chess Strategist | Always One Move Ahead**
 
-- 🔭 **Currently working on:** [GitSecure Scanner](https://github.com/Rahul-Raval-2912/gitsecure-scanner) – A tool to detect sensitive data in Git repos  
-- 🌱 **Learning:** Cybersecurity, Networking, Cloud, and Private Server Management  
-- ⚡ **Fun Fact:** I can spot a security vulnerability almost as fast as a checkmate in 3 moves! 😎
+- 🔭 **Currently building:** [GitSecure Scanner](https://github.com/Rahul-Raval-2912/gitsecure-scanner) – A Python tool to detect sensitive data leaks in Git repositories  
+- 🌱 **Learning:** Advanced Cybersecurity, Cloud Architecture, and Private Server Management  
+- ⚡ **Fun Fact:** I can spot a security flaw as quickly as a checkmate in three moves! 😎
 
 ---
 
@@ -24,16 +24,16 @@
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Cloud" src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Networking" src="https://img.shields.io/badge/Networking-005C84?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
-
 ---
 
 ## 🏆 Featured Projects
-- **[GitSecure Scanner](https://github.com/Rahul-Raval-2912/gitsecure-scanner)**: A Python-based tool that scans Git repositories for sensitive data like `.env` files, passwords, or API keys, alerting users with a red flag for potential leaks.  
-- **[Raven](https://github.com/Rahul-Raval-2912/raven)**: A real-time chatting platform built with Java and Spring Boot, deployed on a private cloud server.  
-*(Explore more in my [repositories](https://github.com/Rahul-Raval-2912?tab=repositories)!)*
+- **[GitSecure Scanner](https://github.com/Rahul-Raval-2912/gitsecure-scanner)**: A Python-powered tool that scans Git repos for sensitive data (e.g., `.env` files, API keys) and flags potential leaks with precision.  
+- **[Raven](https://github.com/Rahul-Raval-2912/raven)**: A real-time chat platform built with Java and Spring Boot, hosted on a private cloud server for seamless communication.  
+*Discover more in my [repositories](https://github.com/Rahul-Raval-2912?tab=repositories)!*
 
 ---
 
@@ -49,13 +49,13 @@
 ## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/rahul-raval-27a5a932a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://x.com/rahul_raval_98"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter" /></a>
+  <a href="https://x.com/rahul_raval_98"><img alt="X" src="https://img.shields.io/badge/X-Follow-blue?style=flat&logo=x" /></a>
   <a href="https://www.instagram.com/Rahul_Raval_98/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram" /></a>
 </p>
 
 ---
 
 <div align="center">
-  <p><b>Let's secure the web and code together!</b> 🔐🚀</p>
-  <img src="https://media.giphy.com/media/3o7bu8sRnYp0kAvaA0/giphy.gif" width="200" alt="Cybersecurity GIF" />
+  <p><b>Let’s secure the digital world, one move at a time!</b> 🔐🚀</p>
+  <img src="https://media.giphy.com/media/26BRwCM3rHKtX2X3W/giphy.gif" width="200" alt="Cybersecurity GIF" />
 </div>
