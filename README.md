@@ -12,7 +12,7 @@
 🖥️ **Exploring Server Administration & Private Server Setups**  
 ♟️ **Chess Lover | Always One Move Ahead**
 
-- 🔭 **Currently building:** [GitSecure Scanner]([https://github.com/Rahul-Raval-2912/](https://github.com/Rahul-Raval-2912/Preventing-Sensitive-Data-Leakage-in-Code-Repositories)) – A Python tool to detect sensitive data leaks in Git repositories  
+- 🔭 **Currently building:** [GitSecure Scanner]([https://github.com/Rahul-Raval-2912/](https://github.com/Rahul-Raval-2912/Preventing-Sensitive-Data-Leakage-in-Code-Repositories) – A Python tool to detect sensitive data leaks in Git repositories  
 - 🌱 **Currently learning:** Cybersecurity basics, cloud architecture (AWS/GCP), server deployment & network protocols  
 - ⚡ **Fun Fact:** Sometimes I just stare at terminal windows for fun — and call it "thinking". 🧠💻
 ---
@@ -32,7 +32,7 @@
 ---
 
 ## 🏆 Featured Projects
-- **[GitSecure Scanner]([https://github.com/Rahul-Raval-2912/gitsecure-scanner](https://github.com/Rahul-Raval-2912/Preventing-Sensitive-Data-Leakage-in-Code-Repositories))**: A Python-powered tool that scans Git repos for sensitive data (e.g., `.env` files, API keys) and flags potential leaks with precision.  
+- **[GitSecure Scanner]([https://github.com/Rahul-Raval-2912/gitsecure-scanner](https://github.com/Rahul-Raval-2912/Preventing-Sensitive-Data-Leakage-in-Code-Repositories)**: A Python-powered tool that scans Git repos for sensitive data (e.g., `.env` files, API keys) and flags potential leaks with precision.  
 - **[Raven](https://github.com/Rahul-Raval-2912/raven)**: A real-time chat platform built with Java and Spring Boot, hosted on a private cloud server for seamless communication.  
 *Discover more in my [repositories](https://github.com/Rahul-Raval-2912?tab=repositories)!*
 
