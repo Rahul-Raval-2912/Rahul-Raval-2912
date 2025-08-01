@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CAD40&width=435&lines=I'm+Rahul+Raval)](https://git.io/typing-svg)</h1>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CAD40&width=435&lines=I'm+Rahul+Raval)](https://git.io/typing-svg)
   <p><em>"Life’s a chessboard – plan your moves, secure your king!"</em> ♟️</p>
   <img src="https://views.whatilearened.today/views/github/Rahul-Raval-2912/Rahul-Raval-2912.svg?cache=remove" alt="Profile Views" />
 </div>
