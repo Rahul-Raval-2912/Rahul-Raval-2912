@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=I'm+Rahul+Raval" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&width=600&lines=I'm+Rahul+Raval" alt="Typing SVG" />
   </a>
   <p><em>"Life’s a chessboard – plan your moves, secure your king!"</em> ♟️</p>
   <img src="https://views.whatilearened.today/views/github/Rahul-Raval-2912/Rahul-Raval-2912.svg?cache=remove" alt="Profile Views" />
@@ -15,8 +15,8 @@
 🖥️ **Exploring Server Administration & Private Server Setups**  
 ♟️ **Chess Lover | Always One Move Ahead**
 
-- 🔭 **Currently building:** [GitSecure Scanner](https://github.com/Rahul-Raval-2912/Preventing-Sensitive-Data-Leakage-in-Code-Repositories) – A Python tool to detect sensitive data leaks in Git repositories  
-- 🌱 **Currently learning:** Cybersecurity basics, cloud architecture (AWS/GCP), server deployment & network protocols  
+- 🔭 **Currently building:** [repo-scanner](https://github.com/Rahul-Raval-2912/repo-scanner) – A powerful Python tool that detects and prevents sensitive data leaks in Git repositories.  
+- 🌱 **Currently learning:** Cybersecurity fundamentals, cloud infrastructure (AWS/GCP), network protocols & server deployments  
 - ⚡ **Fun Fact:** Sometimes I just stare at terminal windows for fun — and call it "thinking". 🧠💻
 
 ---
@@ -38,13 +38,13 @@
 
 ## 🏆 Featured Projects
 
-- **[GitSecure Scanner](https://github.com/Rahul-Raval-2912/Preventing-Sensitive-Data-Leakage-in-Code-Repositories)**  
-  A Python-powered tool that scans Git repositories for sensitive data (e.g., `.env` files, API keys) and flags potential leaks with precision.
+- **[repo-scanner](https://github.com/Rahul-Raval-2912/repo-scanner)**  
+  A security-focused Python tool that scans your Git repository to detect sensitive data leaks such as API keys, passwords, and secret files — with auto-remediation tips and Git history scanning.
 
-- **[Raven](https://github.com/Rahul-Raval-2912/raven)**  
-  A real-time chat platform built with Java and Spring Boot, hosted on a private cloud server for seamless communication.
+- **[medibridge](https://github.com/Rahul-Raval-2912/medibridge)**  
+  A healthcare portal that connects patients and doctors in real-time, with secure appointment management and medical record access using Django, SQLite, and Bootstrap.
 
-➡️ *Discover more in my [repositories](https://github.com/Rahul-Raval-2912?tab=repositories)!*
+➡️ *See more in my [repositories](https://github.com/Rahul-Raval-2912?tab=repositories)!*
 
 ---
 
