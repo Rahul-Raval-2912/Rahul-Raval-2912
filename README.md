@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CAD40&width=435&lines=I'm+Rahul+Raval" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&width=435&lines=I'm+Rahul+Raval" alt="Typing SVG" />
   </a>
   <p><em>"Life’s a chessboard – plan your moves, secure your king!"</em> ♟️</p>
   <img src="https://views.whatilearened.today/views/github/Rahul-Raval-2912/Rahul-Raval-2912.svg?cache=remove" alt="Profile Views" />
@@ -51,7 +51,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-Raval-2912&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Raval-2912&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Raval-2912&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
@@ -76,5 +75,4 @@
 
 <div align="center">
   <p><b>Let’s secure the digital world, one move at a time!</b> 🔐🚀</p>
-  <img src="https://media.giphy.com/media/26BRwCM3rHKtX2X3W/giphy.gif" width="200" alt="Cybersecurity GIF" />
 </div>
