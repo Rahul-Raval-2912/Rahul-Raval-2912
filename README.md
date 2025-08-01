@@ -1,5 +1,7 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CAD40&width=435&lines=I'm+Rahul+Raval)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CAD40&width=435&lines=I'm+Rahul+Raval" alt="Typing SVG" />
+  </a>
   <p><em>"Life’s a chessboard – plan your moves, secure your king!"</em> ♟️</p>
   <img src="https://views.whatilearened.today/views/github/Rahul-Raval-2912/Rahul-Raval-2912.svg?cache=remove" alt="Profile Views" />
 </div>
@@ -7,17 +9,20 @@
 ---
 
 ## 🚀 About Me
+
 🎓 **Computer Engineering Student @ LJIT**  
 🔐 **Learning Cybersecurity, Networking & Cloud Technologies**  
 🖥️ **Exploring Server Administration & Private Server Setups**  
 ♟️ **Chess Lover | Always One Move Ahead**
 
-- 🔭 **Currently building:** [GitSecure Scanner]([https://github.com/Rahul-Raval-2912/](https://github.com/Rahul-Raval-2912/Preventing-Sensitive-Data-Leakage-in-Code-Repositories) – A Python tool to detect sensitive data leaks in Git repositories  
+- 🔭 **Currently building:** [GitSecure Scanner](https://github.com/Rahul-Raval-2912/Preventing-Sensitive-Data-Leakage-in-Code-Repositories) – A Python tool to detect sensitive data leaks in Git repositories  
 - 🌱 **Currently learning:** Cybersecurity basics, cloud architecture (AWS/GCP), server deployment & network protocols  
 - ⚡ **Fun Fact:** Sometimes I just stare at terminal windows for fun — and call it "thinking". 🧠💻
+
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
@@ -32,13 +37,18 @@
 ---
 
 ## 🏆 Featured Projects
-- **[GitSecure Scanner]([https://github.com/Rahul-Raval-2912/gitsecure-scanner](https://github.com/Rahul-Raval-2912/Preventing-Sensitive-Data-Leakage-in-Code-Repositories)**: A Python-powered tool that scans Git repos for sensitive data (e.g., `.env` files, API keys) and flags potential leaks with precision.  
-- **[Raven](https://github.com/Rahul-Raval-2912/raven)**: A real-time chat platform built with Java and Spring Boot, hosted on a private cloud server for seamless communication.  
-*Discover more in my [repositories](https://github.com/Rahul-Raval-2912?tab=repositories)!*
+
+- **[GitSecure Scanner](https://github.com/Rahul-Raval-2912/Preventing-Sensitive-Data-Leakage-in-Code-Repositories)**  
+  A Python-powered tool that scans Git repositories for sensitive data (e.g., `.env` files, API keys) and flags potential leaks with precision.
+
+- **[Raven](https://github.com/Rahul-Raval-2912/raven)**  
+  A real-time chat platform built with Java and Spring Boot, hosted on a private cloud server for seamless communication.
+
+➡️ *Discover more in my [repositories](https://github.com/Rahul-Raval-2912?tab=repositories)!*
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Rahul-Raval-2912&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
@@ -46,14 +56,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Raval-2912&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
 
-
 ---
 
 ## 🤝 Connect with Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahul-raval-27a5a932a/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
-  <a href="https://x.com/rahul_raval_98"><img alt="X" src="https://img.shields.io/badge/X-Follow-blue?style=flat&logo=x" /></a>
-  <a href="https://www.instagram.com/Rahul_Raval_98/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram" /></a>
+  <a href="https://www.linkedin.com/in/rahul-raval-27a5a932a/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://x.com/rahul_raval_98">
+    <img alt="X" src="https://img.shields.io/badge/X-Follow-blue?style=flat&logo=x" />
+  </a>
+  <a href="https://www.instagram.com/Rahul_Raval_98/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram" />
+  </a>
 </p>
 
 ---
