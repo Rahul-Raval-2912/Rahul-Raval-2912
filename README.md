@@ -17,7 +17,7 @@
 
 - 🔭 **Currently building:** [repo-scanner](https://github.com/Rahul-Raval-2912/repo-scanner) – A powerful Python tool that detects and prevents sensitive data leaks in Git repositories.  
 - 🌱 **Currently learning:** Cybersecurity fundamentals, cloud infrastructure (AWS/GCP), network protocols & server deployments  
-- ⚡ **Fun Fact:** Sometimes I just stare at terminal windows for fun — and call it "thinking". 🧠💻
+- ⚡ **Fun Fact:** Sometimes I just stare at terminal for fun — and call it "thinking". 🧠💻
 
 ---
 
