@@ -11,13 +11,16 @@
 ## 🚀 About Me
 
 🎓 **Computer Engineering Student @ LJIT**  
-🔐 **Learning Cybersecurity, Networking & Cloud Technologies**  
+🔐 **Learning Networking, Cybersecurity Fundamentals & OS Concepts**  
 🖥️ **Exploring Server Administration & Private Server Setups**  
 ♟️ **Chess Lover | Always One Move Ahead**
 
-- 🔭 **Currently building:** [repo-scanner](https://github.com/Rahul-Raval-2912/repo-scanner) – A powerful Python tool that detects and prevents sensitive data leaks in Git repositories.  
-- 🌱 **Currently learning:** Cybersecurity fundamentals, cloud infrastructure (AWS/GCP), network protocols & server deployments  
+- 🔭 **Currently building:** [raven-chatting-app](https://github.com/Rahul-Raval-2912/raven-chatting-app) – A secure, real-time chat app designed for privacy enthusiasts. Implements robust end-to-end encryption and unique features for safe communication.
+- 🌱 **Currently learning:** Networking protocols, OS internals, cyber fundamentals, and hands-on security labs.
 - ⚡ **Fun Fact:** Sometimes I just stare at terminal for fun — and call it "thinking". 🧠💻
+
+#### Internship Goal
+Actively seeking internships in cybersecurity and network support roles to gain practical experience and contribute my passion for securing digital infrastructure.
 
 ---
 
@@ -38,11 +41,11 @@
 
 ## 🏆 Featured Projects
 
-- **[repo-scanner](https://github.com/Rahul-Raval-2912/repo-scanner)**  
-  A security-focused Python tool that scans your Git repository to detect sensitive data leaks such as API keys, passwords, and secret files — with auto-remediation tips and Git history scanning.
+- **[raven-chatting-app](https://github.com/Rahul-Raval-2912/raven-chatting-app)**  
+  A secure, real-time chat app designed for privacy enthusiasts. Implements robust end-to-end encryption and unique features for safe communication.
 
-- **[medibridge](https://github.com/Rahul-Raval-2912/medibridge)**  
-  A healthcare portal that connects patients and doctors in real-time, with secure appointment management and medical record access using Django, SQLite, and Bootstrap.
+- **[SentinelX](https://github.com/Rahul-Raval-2912/SentinelX)**  
+  Privacy‑first incident reporter: encrypts data in-browser, uses GPU for OCR/NER redaction, and leverages blockchain for integrity proofs. Servers see only ciphertext; users get redacted files and a hashed manifest anchored on-chain.
 
 ➡️ *See more in my [repositories](https://github.com/Rahul-Raval-2912?tab=repositories)!*
 
