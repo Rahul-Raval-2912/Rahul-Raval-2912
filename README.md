@@ -1,81 +1,105 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=007ACC&center=true&width=600&lines=I'm+Rahul+Raval" alt="Typing SVG" />
-  </a>
-  <p><em>"Life’s a chessboard – plan your moves, secure your king!"</em> ♟️</p>
-  <img src="https://views.whatilearened.today/views/github/Rahul-Raval-2912/Rahul-Raval-2912.svg?cache=remove" alt="Profile Views" />
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Rahul+Raval;Freelance+Developer;Cybersecurity+%26+Cloud+Learner" />
+
+<br><br>
+
+<!-- Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:6DD5FA&height=120&section=header"/>
+
 </div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-🎓 **Computer Engineering Student @ LJIT**  
-🔐 **Learning Networking, Cybersecurity Fundamentals & OS Concepts**  
-🖥️ **Exploring Server Administration & Private Server Setups**  
-♟️ **Chess Lover | Always One Move Ahead**
-
-- 🔭 **Currently building:** [raven-chatting-app](https://github.com/Rahul-Raval-2912/raven-chatting-app) – A secure, real-time chat app designed for privacy enthusiasts. Implements robust end-to-end encryption and unique features for safe communication.
-- 🌱 **Currently learning:** Networking protocols, OS internals, cyber fundamentals, and hands-on security labs.
-- ⚡ **Fun Fact:** Sometimes I just stare at terminal for fun — and call it "thinking". 🧠💻
-
-#### Internship Goal
-Actively seeking internships in cybersecurity and network support roles to gain practical experience and contribute my passion for securing digital infrastructure.
+- 🎓 3rd Year Computer Engineering Student  
+- 💼 Freelance Developer working on real-world projects  
+- 🔐 Focused on Cybersecurity & Networking  
+- ☁️ Learning Cloud (AWS) and scalable systems  
+- 🖥️ Passionate about Linux & backend engineering  
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Current Focus
 
-<p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img alt="Networking" src="https://img.shields.io/badge/Networking-005C84?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=aws,linux,python,java,git" />
 
-## 🏆 Featured Projects
+</div>
 
-- **[raven-chatting-app](https://github.com/Rahul-Raval-2912/raven-chatting-app)**  
-  A secure, real-time chat app designed for privacy enthusiasts. Implements robust end-to-end encryption and unique features for safe communication.
-
-- **[SentinelX](https://github.com/Rahul-Raval-2912/SentinelX)**  
-  Privacy‑first incident reporter: encrypts data in-browser, uses GPU for OCR/NER redaction, and leverages blockchain for integrity proofs. Servers see only ciphertext; users get redacted files and a hashed manifest anchored on-chain.
-
-➡️ *See more in my [repositories](https://github.com/Rahul-Raval-2912?tab=repositories)!*
+- Building **secure backend systems**
+- Working on **freelance projects**
+- Exploring **network protocols & OS internals**
+- Learning **cloud deployment & security**
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Featured Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahul-Raval-2912&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Raval-2912&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-</p>
+### 🔐 Raven – Secure Chat App
+- Real-time messaging  
+- Privacy-first design  
+- Scalable backend  
 
 ---
 
-## 🤝 Connect with Me
+### 🛡️ SentinelX – Secure Incident Platform
+- Client-side encryption  
+- Data redaction (OCR-based)  
+- Integrity verification  
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahul-raval-27a5a932a/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://x.com/rahul_raval_98">
-    <img alt="X" src="https://img.shields.io/badge/X-Follow-blue?style=flat&logo=x" />
-  </a>
-  <a href="https://www.instagram.com/Rahul_Raval_98/">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram" />
-  </a>
-</p>
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Raval-2912&show_icons=true&theme=transparent" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Raval-2912&layout=compact&theme=transparent" height="150"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Rahul-Raval-2912&theme=transparent" />
+
+</div>
+
+---
+
+## 🧩 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,mysql,aws,linux,git" />
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/rahul-raval-27a5a932a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4A90E2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://x.com/rahul_raval_98">
+  <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://github.com/Rahul-Raval-2912">
+  <img src="https://img.shields.io/badge/GitHub-Profile-333?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <p><b>Let’s secure the digital world, one move at a time!</b> 🔐🚀</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:6DD5FA&height=120&section=footer"/>
+
 </div>
