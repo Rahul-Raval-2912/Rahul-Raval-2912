@@ -52,8 +52,8 @@
 
 <div align="center">
 
-<a href="https://github.com/Rahul-Raval-2912/SentinelX">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Raval-2912&repo=SentinelX&theme=transparent" />
+<a href="https://github.com/Rahul-Raval-2912/PDF-Malware-Analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Raval-2912&repo=PDF-Malware-Analysis&theme=transparent" />
 </a>
 
 <a href="https://github.com/Rahul-Raval-2912/repo-scanner">
