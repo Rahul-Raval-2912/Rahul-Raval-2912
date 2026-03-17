@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Rahul+Raval;Freelance+Developer;Cybersecurity+%26+Cloud+Engineer+in+Progress" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Rahul+Raval;Cybersecurity+%26+Cloud+Engineer+in+Progress" />
 
 <!-- Divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:93C5FD&height=130&section=header"/>
@@ -17,7 +17,6 @@
 <td>
 
 🎓 3rd Year Computer Engineering Student  
-💼 Freelance Developer (Real-world experience)  
 🔐 Cybersecurity & Networking Focus  
 ☁️ Cloud Learner (AWS)  
 🖥️ Linux & Backend Systems  
@@ -42,9 +41,9 @@
 </div>
 
 - 🔐 Building **secure and scalable systems**
-- 💼 Delivering **freelance solutions**
 - 🌐 Understanding **network protocols deeply**
-- ☁️ Deploying apps on **cloud infrastructure**
+- ☁️ Deploying applications on **cloud infrastructure**
+- 🧠 Exploring **OS internals and system behavior**
 
 ---
 
@@ -59,7 +58,6 @@
 <a href="https://github.com/Rahul-Raval-2912/repo-scanner">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Raval-2912&repo=repo-scanner&theme=transparent" />
 </a>
-
 
 <a href="https://github.com/Rahul-Raval-2912/SentinelX">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Raval-2912&repo=SentinelX&theme=transparent" />
@@ -93,10 +91,11 @@
 
 ---
 
-## 💼 Freelance Work
+## 💼 Experience
 
+✔️ Working on freelance development projects  
 ✔️ Backend development & database handling  
-✔️ Real-world debugging & deployment  
+✔️ Real-world debugging, deployment & optimization  
 ✔️ Focus on performance, stability & security  
 
 ---
