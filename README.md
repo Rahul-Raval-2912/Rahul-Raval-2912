@@ -1,89 +1,107 @@
 <div align="center">
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Rahul+Raval;Freelance+Developer;Cybersecurity+%26+Cloud+Learner" />
+<!-- Typing Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=30&duration=2500&pause=800&color=3B82F6&center=true&vCenter=true&width=700&lines=Rahul+Raval;Freelance+Developer;Cybersecurity+%26+Cloud+Engineer+in+Progress" />
 
-<br><br>
-
-<!-- Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:6DD5FA&height=120&section=header"/>
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:93C5FD&height=130&section=header"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧭 Profile Overview
 
-- 🎓 3rd Year Computer Engineering Student  
-- 💼 Freelance Developer working on real-world projects  
-- 🔐 Focused on Cybersecurity & Networking  
-- ☁️ Learning Cloud (AWS) and scalable systems  
-- 🖥️ Passionate about Linux & backend engineering  
+<table>
+<tr>
+<td>
+
+🎓 3rd Year Computer Engineering Student  
+💼 Freelance Developer (Real-world experience)  
+🔐 Cybersecurity & Networking Focus  
+☁️ Cloud Learner (AWS)  
+🖥️ Linux & Backend Systems  
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Raval-2912&show_icons=true&theme=transparent" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I’m Focused On
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux,python,java,git" />
+<img src="https://skillicons.dev/icons?i=aws,linux,python,java,git,docker" />
 
 </div>
 
-- Building **secure backend systems**
-- Working on **freelance projects**
-- Exploring **network protocols & OS internals**
-- Learning **cloud deployment & security**
+- 🔐 Building **secure and scalable systems**
+- 💼 Delivering **freelance solutions**
+- 🌐 Understanding **network protocols deeply**
+- ☁️ Deploying apps on **cloud infrastructure**
 
 ---
 
-## 🧠 Featured Work
-
-### 🔐 Raven – Secure Chat App
-- Real-time messaging  
-- Privacy-first design  
-- Scalable backend  
-
----
-
-### 🛡️ SentinelX – Secure Incident Platform
-- Client-side encryption  
-- Data redaction (OCR-based)  
-- Integrity verification  
-
----
-
-## 📊 GitHub Activity
+## 🧠 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Raval-2912&show_icons=true&theme=transparent" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Raval-2912&layout=compact&theme=transparent" height="150"/>
+<a href="https://github.com/Rahul-Raval-2912/raven-chatting-app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Raval-2912&repo=raven-chatting-app&theme=transparent" />
+</a>
 
-<br>
+<a href="https://github.com/Rahul-Raval-2912/SentinelX">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rahul-Raval-2912&repo=SentinelX&theme=transparent" />
+</a>
+
+</div>
+
+---
+
+## 📊 Activity & Contribution
+
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Rahul-Raval-2912&theme=transparent" />
 
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Raval-2912&theme=github-compact" />
+
 </div>
 
 ---
 
-## 🧩 Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,mysql,aws,linux,git" />
+<img src="https://skillicons.dev/icons?i=java,python,mysql,aws,linux,git,docker" />
 
 </div>
 
 ---
 
-## 🤝 Connect
+## 💼 Freelance Work
+
+✔️ Backend development & database handling  
+✔️ Real-world debugging & deployment  
+✔️ Focus on performance, stability & security  
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rahul-raval-27a5a932a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4A90E2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://x.com/rahul_raval_98">
@@ -98,8 +116,18 @@
 
 ---
 
+## 🧠 Mindset
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,100:6DD5FA&height=120&section=footer"/>
+> “Secure systems aren’t built by chance — they are designed with intention.”
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:93C5FD&height=130&section=footer"/>
 
 </div>
