@@ -24,7 +24,7 @@
 </td>
 <td>
 
-<img src="https://raw.githubusercontent.com/Rahul-Raval-2912/Rahul-Raval-2912/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Raval-2912&theme=github-compact" />
 
 </td>
 </tr>
@@ -133,5 +133,12 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:93C5FD&height=130&section=footer"/>
+
+
+## 🐍 Contribution Trail
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Rahul-Raval-2912/Rahul-Raval-2912/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</div>
 
 </div>
