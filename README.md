@@ -24,7 +24,7 @@
 </td>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Raval-2912&show_icons=true&theme=transparent" />
+<img src="https://raw.githubusercontent.com/Rahul-Raval-2912/Rahul-Raval-2912/output/github-contribution-grid-snake.svg" />
 
 </td>
 </tr>
