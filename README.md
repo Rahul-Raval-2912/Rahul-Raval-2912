@@ -22,11 +22,6 @@
 🖥️ Linux & Backend Systems  
 
 </td>
-<td>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Raval-2912&theme=github-compact" />
-
-</td>
 </tr>
 </table>
 
@@ -73,7 +68,13 @@
 
 <img src="https://streak-stats.demolab.com?user=Rahul-Raval-2912&theme=transparent" />
 
-<br>
+</div>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahul-Raval-2912&theme=github-compact" />
 
@@ -95,7 +96,7 @@
 
 ✔️ Working on freelance development projects  
 ✔️ Backend development & database handling  
-✔️ Real-world debugging, deployment & optimization  
+✔️ Real‑world debugging, deployment & optimization  
 ✔️ Focus on performance, stability & security  
 
 ---
@@ -130,15 +131,16 @@
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:93C5FD&height=130&section=footer"/>
-
-
 ## 🐍 Contribution Trail
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Rahul-Raval-2912/Rahul-Raval-2912/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
+<img src="https://raw.githubusercontent.com/Rahul-Raval-2912/Rahul-Raval-2912/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+
 </div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:93C5FD&height=130&section=footer"/>
 
 </div>
