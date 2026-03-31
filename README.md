@@ -9,6 +9,8 @@
 </div>
 
 ---
+## 🧭 Profile Overview
+
 <table>
 <tr>
 <td>
@@ -18,11 +20,10 @@
 ☁️ Cloud Learner (AWS)  
 🖥️ Linux & Backend Systems  
 
-</td>
-<td>
+<br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Raval-2912&layout=compact&theme=transparent)  
-![GitHub streak](https://streak-stats.demolab.com?user=Rahul-Raval-2912&theme=transparent)
+**Tech focus:**  
+`Python` • `Linux` • `AWS` • `Networking` • `Cybersecurity`
 
 </td>
 </tr>
